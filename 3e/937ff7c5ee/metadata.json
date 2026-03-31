@@ -1,0 +1,28 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "3e937ff7c5ee",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 0,
+  "files_touched": [
+    ".claude/settings.json",
+    ".entire/.gitignore",
+    ".entire/settings.json",
+    "poem.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/3e/937ff7c5ee/0/metadata.json",
+      "transcript": "/3e/937ff7c5ee/0/full.jsonl",
+      "content_hash": "/3e/937ff7c5ee/0/content_hash.txt",
+      "prompt": "/3e/937ff7c5ee/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 4,
+    "cache_creation_tokens": 4611,
+    "cache_read_tokens": 26842,
+    "output_tokens": 297,
+    "api_call_count": 2
+  }
+}
